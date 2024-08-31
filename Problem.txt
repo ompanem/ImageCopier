@@ -1,0 +1,7 @@
+Step 1: Get a picture off the internet and save it as "input.png"
+Step 2: In intellij add the file to your project
+Step 3: Create a blank png by clicking the three lines icon and clicking "New - File" and name it output.png
+Try to display the image from input.png on output.png by utilizing input and output streams.
+
+DISCLAIMER:
+When I push these problems to my github at the time I just learned the topic and adding practice problems to this repo.  If there is a more effective way you know please utilize it.
